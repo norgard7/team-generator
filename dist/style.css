@@ -1,0 +1,28 @@
+h1 {
+    background-color:rgb(214, 89, 99);
+    text-align: center;
+    padding: 2%;
+    color: white;
+}
+h3 {
+    display: inline-block;
+    
+}
+i {
+    display: inline-block;
+    padding: 1%;
+}
+.card-header{
+    background-color: blue;
+    color:white;
+}
+.list-group {
+    border: 2px solid lightgray;
+    margin: 10%;
+}
+
+.card {
+    width: 18rem;
+    padding: 0;
+    margin-bottom: 30px;
+}
